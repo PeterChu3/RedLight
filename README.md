@@ -36,7 +36,7 @@ Schematic view
 ![Schematic View rev1](https://github.com/chuy4ever/RedLight/blob/main/overpoweredRedLightSchematic.png?raw=true)
 
 Layout view
-![Layout View rev1](https://github.com/chuy4ever/RedLight/blob/main/overpoweredRedLightBoard.png?raw=true)
+![Layout View rev1](https://github.com/chuy4ever/RedLight/blob/main/overpoweredRedLightLayout.png?raw=true)
 
 Board view
-![Board View rev1](https://github.com/ArmaanLala/LED_Keychain/blob/master/Images/LED_Keychain.png?raw=true)
+![Board View rev1](https://github.com/chuy4ever/RedLight/blob/main/overpoweredRedLightBoard.png?raw=true)
