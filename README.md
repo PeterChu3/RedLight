@@ -39,4 +39,4 @@ Layout view
 ![Layout View rev1](https://github.com/chuy4ever/RedLight/blob/main/overpoweredRedLightLayout.png?raw=true)
 
 Board view
-![Board View rev1](https://github.com/chuy4ever/RedLight/blob/main/overpoweredRedLightBoard.png?raw=true)
+![Board View rev1](https://github.com/chuy4ever/RedLight/blob/main/overpoweredRedLightBoard2.png?raw=true)
