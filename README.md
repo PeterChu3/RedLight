@@ -4,7 +4,7 @@
 
 ![Mini Bike View](https://github.com/chuy4ever/RedLight/blob/main/ebikev2.gif?raw=true)
 
-I ride around Atlanta on the electric mini bike pictured above. However, there is no lighting in the rear. Which according to car drivers can be hard to see at night. Rather than buy a cheap read light from Amazon. I decided to make a overpowered blinking read light to make sure everyone knows I exist. I don't want to be hit by another car.
+I ride around Atlanta on the electric mini bike pictured above. However, there is no lighting in the rear. Which according to car drivers can be hard to see at night. Rather than buy a cheap small internal battery powered red light from Amazon. I decided to make a overpowered blinking red light powered by the bike's battery to make sure everyone knows I exist on the road. I don't want to be hit by another car.
 
 ## Explanation
 
