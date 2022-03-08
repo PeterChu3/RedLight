@@ -2,7 +2,7 @@
 
 ## Story
 
-![Schematic View rev1](https://github.com/chuy4ever/RedLight/blob/main/ebikev2.gif?raw=true)
+![Mini Bike View](https://github.com/chuy4ever/RedLight/blob/main/ebikev2.gif?raw=true)
 
 I ride around Atlanta on the electric mini bike pictured above. However, there is no lighting in the rear. Which according to car drivers can be hard to see at night. Rather than buy a cheap read light from Amazon. I decided to make a overpowered blinking read light to make sure everyone knows I exist. I don't want to be hit by another car.
 
@@ -40,3 +40,6 @@ Layout view
 
 Board view
 ![Board View rev1](https://github.com/chuy4ever/RedLight/blob/main/overpoweredRedLightBoard2.png?raw=true)
+
+Functional test
+![Red Light view](https://github.com/chuy4ever/RedLight/blob/main/redLight.gif?raw=true)
