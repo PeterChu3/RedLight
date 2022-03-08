@@ -42,4 +42,5 @@ Board view
 ![Board View rev1](https://github.com/chuy4ever/RedLight/blob/main/overpoweredRedLightBoard2.png?raw=true)
 
 Functional test
+
 ![Red Light view](https://github.com/chuy4ever/RedLight/blob/main/redLight.gif?raw=true)
